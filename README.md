@@ -1,2 +1,2 @@
-# Machine_Learning_Course_2018
-ML course content
+# Machine Learning
+ML course content and implemented algorithms 
